@@ -1,4 +1,4 @@
-print('ciao mamei')
+print('ciao 1')
 
 print('hella hoes')
 print('rockstar')
